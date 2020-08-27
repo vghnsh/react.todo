@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.todo{
+  display: flex;
+  justify-content: center;
+  
+
+}
+
+.todo .text{
+  padding:20px;
+    
+}
+.todo .btn{
+  paddinf:20px;
+}
